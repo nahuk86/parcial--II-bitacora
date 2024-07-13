@@ -1,0 +1,16 @@
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\obj\Debug\LoggerApp.UI.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\obj\Debug\LoggerApp.UI.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.UI.exe.config
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.UI.exe
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.UI.pdb
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.BLL.dll
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.Domain.dll
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.DAL.dll
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.BLL.pdb
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.Domain.pdb
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\bin\Debug\LoggerApp.DAL.pdb
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\obj\Debug\LoggerAp.0B13BD0E.Up2Date
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\obj\Debug\LoggerApp.UI.exe
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.UI\obj\Debug\LoggerApp.UI.pdb

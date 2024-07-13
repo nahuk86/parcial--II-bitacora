@@ -1,0 +1,6 @@
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.Domain\obj\Debug\LoggerApp.Domain.csproj.AssemblyReference.cache
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.Domain\obj\Debug\LoggerApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.Domain\bin\Debug\LoggerApp.Domain.dll
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.Domain\bin\Debug\LoggerApp.Domain.pdb
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.Domain\obj\Debug\LoggerApp.Domain.dll
+C:\Users\nahue\source\repos\sistema_bitacoras\LoggerApp.Domain\obj\Debug\LoggerApp.Domain.pdb
